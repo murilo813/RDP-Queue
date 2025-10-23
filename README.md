@@ -22,12 +22,14 @@ RDPqueue é um sistema cliente-servidor desenvolvido em Python para gerenciament
 
 ## Estrutura do projeto
 
+
+```text
 RDPqueue/
 ├── server.py          # Servidor principal (RDPqueue-server)
 ├── client.py          # Cliente de conexão (RDPqueue-client)
 ├── README.md          # Documentação do projeto
 └── requirements.txt   # Dependências Python
-
+```
 
 ## Como funciona
 
