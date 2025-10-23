@@ -1,3 +1,7 @@
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LICENSE) para detalhes.
+
 # RDPqueue
 
 RDPqueue é um sistema cliente-servidor desenvolvido em Python para gerenciamento de filas de usuários, com painel de informações e registro de atividades.
